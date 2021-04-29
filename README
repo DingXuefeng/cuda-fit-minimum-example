@@ -1,0 +1,2 @@
+# minimum working example for running fit with cuda
+- use thrust
